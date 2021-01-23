@@ -1,3 +1,3 @@
 # mask-detector-incomplete
 
-helps to detect
+Helps to detect whether
